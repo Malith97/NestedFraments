@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_feed"
+        android:title="Feeding"
+        android:icon="@drawable/ic_local_pizza_black_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_sleeping"
+        android:title="Sleeping"
+        android:icon="@drawable/ic_bubble_chart_black_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_diaper"
+        android:title="Diaper"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_medic"
+        android:title="Medicine"
+        android:icon="@drawable/ic_local_hospital_black_24dp"
+        app:showAsAction="always"/>
+
+</menu>
